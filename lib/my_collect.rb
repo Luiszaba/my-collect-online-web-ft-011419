@@ -8,4 +8,3 @@ def my_collect(languages)
    spoken_languages
  end
  
- my collect(["Bar", "carr", "nine", ])
