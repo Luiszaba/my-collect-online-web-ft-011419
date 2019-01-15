@@ -1,5 +1,5 @@
 def my_collect(languages)
- languages = []
+ spoken_languages = []
  i=0
    while i < language.length
    i=i+1
