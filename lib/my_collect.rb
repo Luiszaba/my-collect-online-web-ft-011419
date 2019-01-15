@@ -1,5 +1,5 @@
-def my_collect(languages)
- spoken_languages = []
+def my_collect(array)
+ array = []
  counter=0
    while counter < languages.length
    spoken_languages << yield (languages[i])
